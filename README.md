@@ -1,2 +1,2 @@
 # Project_Portfolios
-Contains all my multi-discipline professional practice projects
+Contains all my multi-disciplinary professional practice projects
