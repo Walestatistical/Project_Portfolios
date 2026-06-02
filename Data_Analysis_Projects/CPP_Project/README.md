@@ -1,9 +1,9 @@
 ## Project Rationale
 This project provides a comprehensive data analysis of customers' characteristics and inherent patterns of purchasing items from an enterprise company.
 The project explores the monetary, frequency, and recency (MFR) framework, purchase history, socio-economic, and demographic data to understand how 
-different customer categories make decisions to purchase items from the company. Findings and insights from the study were to provide the operation teams 
-and the C-executive management team with recommendations to retain, consolidate, and enhance customers' spending to purchase items from the company, while also
-strengthening customer services and relationships with the company.
+different customer categories make decisions to purchase items from the company. Findings and insights from the study were to provide the operations 
+and the C-executive management teams with recommendations to retain, consolidate, and enhance customers' spending conviction towards continuous 
+purchase of items from the company, while also strengthening customer services and relationships with the company.
 
 ## Technology
 1. MS Excel for data aggregation and storage
