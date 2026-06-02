@@ -1,5 +1,5 @@
 ## Project Rationale
-The decision by people to buy items (or not) from a particular enterprise company is most often driven by influential factors, which, if studied, 
+The decision by potential buyers to purchase items (or not) from a particular enterprise company is most often driven by influential factors, which, if studied, 
 understood and leveraged by businesses, serves as a strategic sales performance enhancement tool, with the tendency to positively impact bottom lines.
 This project provides a comprehensive analysis of customer characteristics and inherent purchasing patterns for an enterprise company. It explores the 
 monetary, frequency, and recency (MFR) framework, purchase history, socio-economic, and demographic data to understand how different customer categories 
